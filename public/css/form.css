@@ -1,0 +1,21 @@
+.con-form {
+    border: 20px solid #996633;
+    width: 800px;
+    height: 630px;
+    background: antiquewhite;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -270px;
+    margin-left: -415px;
+    text-align: center;
+    display: table;
+}
+
+.box {
+    background: #c68c53;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    border: 50px solid rgba(0, 0, 0, .2);
+}
