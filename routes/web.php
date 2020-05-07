@@ -38,7 +38,7 @@ Route::get('/ContactUs', function () {
 });
 
 Auth::routes();
-
+Route::get('/pesan','StoreController@pesan');
 Route::post('/booking','pesan@booking');
 Route::get('/dekor', 'StoreController@dekor')->name('dekor');
 Route::get('/contact', 'Contact@showContactForm');

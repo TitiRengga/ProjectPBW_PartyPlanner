@@ -53,7 +53,7 @@
         </div>
 
         <div class="container text-center mb-5">
-            <a class="btn btn-dark" href="{{ route('pesan') }}">BOOKING DISINI</a>
+            <a class="btn btn-dark" href="/pesan">BOOKING DISINI</a>
         </div>
 
         <div class="text-center" id="footer">

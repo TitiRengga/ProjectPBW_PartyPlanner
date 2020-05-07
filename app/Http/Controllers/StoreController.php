@@ -15,9 +15,9 @@ class StoreController extends Controller
     {
         return view('pesan');
     }
-     public function dekor()
+    public function dekor()
     {
         return view('dekor');
     } 
-   
+
 }

@@ -47,21 +47,21 @@
                 </div>
 
                 <div class="col-md-6 skills-bar">
-                    <p>HTML</p>
+                    <p>Wedding Party</p>
                     <div class="progress">
-                        <div class="progress-bar" style="width: 35%">35%</div>
+                        <div class="progress-bar" style="width: 100%">100%</div>
                     </div>
-                    <p>CSS</p>
+                    <p>Birthday Party</p>
                     <div class="progress">
-                        <div class="progress-bar" style="width: 30%">30%</div>
+                        <div class="progress-bar" style="width: 100%">100%</div>
                     </div>
-                    <p>PHP</p>
+                    <p>Baby Shower</p>
                     <div class="progress">
-                        <div class="progress-bar" style="width: 25%">25%</div>
+                        <div class="progress-bar" style="width: 100%">100%</div>
                     </div>
-                    <p>Java Script</p>
+                    <p>Other's Party</p>
                     <div class="progress">
-                        <div class="progress-bar" style="width: 10%">10%</div>
+                        <div class="progress-bar" style="width: 80%">80%</div>
                     </div>
                 </div>
             </div>
